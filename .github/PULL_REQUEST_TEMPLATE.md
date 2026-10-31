@@ -1,10 +1,3 @@
-
-### الملف الثاني: `PULL_REQUEST_TEMPLATE.md`
-
-المسار:
-
-`.github/PULL_REQUEST_TEMPLATE.md`
-
 ```markdown
 ## 📌 Pull Request Information
 
