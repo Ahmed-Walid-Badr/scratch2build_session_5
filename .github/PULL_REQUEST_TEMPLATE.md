@@ -1,4 +1,3 @@
-```markdown
 ## 📌 Pull Request Information
 
 **Session:** Session 5 - DOM Mutation & Event-Driven Engine
@@ -48,5 +47,3 @@ Add screenshots or screen recordings demonstrating your work.
 ## 📝 Additional Notes
 
 Mention any challenges, improvements, or questions related to this submission.
-
--
